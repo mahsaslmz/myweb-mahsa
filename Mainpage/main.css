@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+#logo{
+    position: relative;
+    /*text-align: center;*/
+
+}
+#backgroundpicture img{
+    width: 100%;
+    height: 650px;
+    position: fixed;
+}
+input:focus{
+    border: 2px solid red;
+
+}
+#ertebat{
+    text-align: center;
+    flex-direction: column;
+}
+
+
